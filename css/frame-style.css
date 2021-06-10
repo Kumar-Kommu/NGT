@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size: 12px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #ebebeb;
+    color: #333333;
+    margin: 0px auto;
+	background-image:url(../../../../live%20projects/img/bg2.jpg);
+    background-repeat: repeat-x;
+    background-position: top left;	
+}
+.wrapper
+{
+	width:1100px;
+	height:2000px;
+	border:2px #F0F solid;
+	border-radius:10px;
+	background-color:#FFF;
+	margin:0 auto;
+}
+.top-header{
+	width: 1086px;
+    height: 150px;
+    border: 1px #930 solid;
+    border-radius: 10px;
+    margin: 6px 0 0 6px;
+}
+.top-left{
+	width: 286px;
+    height: 137px;
+    border: 1px #930 solid;
+    border-radius: 10px;
+    margin: 6px 0 0 6px;
+	float:left;
+	
+}
+.logoimg{
+	margin: 26px 0 0 23px;
+    border: 1px red solid;
+}
+.top-right{
+	width:770px;
+    height: 137px;
+    border: 1px #930 solid;
+    border-radius: 10px;
+    margin: 6px 6px 0 0px;
+	float:right;
+}
+.top-right span{
+	width: 470px;
+    height: 107px;
+    color: #C00;
+    margin: -31px 22px -26px 66px;
+}
+.top-menu{
+    width: 1000px;
+    height: 50px;
+    border: 1px solid #00F;
+    background-color: #03F;
+    border-radius:10px;
+	padding:5px 5px 0px 0px;
+	margin: 5px 40px 0px 40px;
+}
+.top-menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.top-menu ul li{
+	float: left;
+    display: inline;
+    line-height:47px;
+    margin-left:80px;
+}
+
+.top-menu ul li a {
+	color:#FFF;
+	text-decoration:none;
+	text-align:justify;
+	text-transform:uppercase;
+	font-family:"Lucida Console", Monaco, monospace;
+	font-size:18px;
+}
+
+.top-menu ul li a:hover {
+	color:#930;
+	text-decoration:underline;
+	text-align:justify;
+	text-transform:uppercase;
+	font-family:"Lucida Console", Monaco, monospace;
+	font-size:18px;
+}
+
+.banner{
+	width: 1575px;
+    height: 350px;
+    border: 1px #930 solid;
+    border-radius: 10px;
+    margin: 6px -20px 0px -248px;
+}
+.content{
+	width: 1086px;
+    height: 1200px;
+    border: 1px #930 solid;
+    border-radius: 10px;
+    margin: 6px 0 0 6px;
+	}
+.content h1{
+	height:40px;
+	width:500px;
+	background-color:#00F;
+	border:1px #F00 solid;
+	color:#FFF;
+	margin:5px 0px 0px 10px;
+	border-radius:10px;
+	padding:10px 0px 0px 10px;
+}
+.content p{
+	text-align:justify;
+	font-family:Verdana, Geneva, sans-serif;
+	padding:10px 10px 10px 10px;
+	
+	
+	
+	
+}
+.footer{
+	width: 1086px;
+    height: 40px;
+    border: 1px #930 solid;
+    border-radius: 10px;
+    margin: 6px 0 0 6px;
+}
+// Menu Css
+
+
+
+
+
+
+
+
+
+
+
+
+
